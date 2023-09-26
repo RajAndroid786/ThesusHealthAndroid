@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Thesus Health App</string>
+    <string name="second_screen_title">Second Screen</string>
+    <string name="back_button">Back button</string>
+    <string name="third_screen_title">Third Screen</string>
+    <string name="request_permission_explain">Thesus Health App needs to use the Bluetooth and Location to work properly, clicks on the button bellow and give that permissions</string>
+    <string name="request_permission">Request permissions</string>
+    <string name="bluetooth_not_enabled">Bluetooth not enabled, click to enable</string>
+    <string name="location_not_granted">Location permission not granted</string>
+    <string name="location_services_not_granted">Location services not enabled</string>
+    <string name="bluetooth_not_available">Bluetooth not available</string>
+    <string name="checking_bluetooth_status">Checking Bluetooth status</string>
+    <string name="bluetooth_ready">Bluetooth is ready to use</string>
+    <string name="scan_screen_title">Scan Devices</string>
+    <string name="permission_granted">All Permissions are Granted</string>
+    <string name="synchronize_devices">Synchronize Devices</string>
+    <string name="start_scan">Start Scan the devices</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_mac_address">Device Mac Address</string>
+    <string name="scanning">Scanning...</string>
+    <string name="device_screen_title">Device Screen Title</string>
+</resources>

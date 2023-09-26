@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "842375739586",
+    "project_id": "thesushealth-e03a8",
+    "storage_bucket": "thesushealth-e03a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842375739586:android:2079bac3056dd88a10635b",
+        "android_client_info": {
+          "package_name": "com.thesushealthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842375739586-gpq7rand4uohjajjg18vtbtn9jsffd2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7VRdE1vnMp4ybIk_fF3p3dyJVDKmWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842375739586-gpq7rand4uohjajjg18vtbtn9jsffd2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842375739586:android:9cb1bd67e48158b210635b",
+        "android_client_info": {
+          "package_name": "com.thesushealthapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842375739586-gpq7rand4uohjajjg18vtbtn9jsffd2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7VRdE1vnMp4ybIk_fF3p3dyJVDKmWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842375739586-gpq7rand4uohjajjg18vtbtn9jsffd2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
